@@ -1,5 +1,5 @@
 # Hi, I'm Shiva Kiran 👋
-VLSI Engineer | RTL Design | SystemVerilog
+VLSI Engineer | RTL Design | Design verification | SystemVerilog
 
 ## Skills
 - Verilog
