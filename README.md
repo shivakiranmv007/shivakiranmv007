@@ -10,6 +10,6 @@ VLSI Engineer | RTL Design | Design verification | SystemVerilog
 
 ## Projects
 - FIFO RTL Design
-- Memory Module Design
+- Hamming code RTL Verification
 - FSM Design
 - SystemVerilog Practice Programs
