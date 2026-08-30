@@ -9,6 +9,7 @@ VLSI Engineer | RTL Design | VLSI Design Verification | SystemVerilog | Verilog
 - Verification Basics
 
 ## Projects
+- APB-SPI Master
 - FIFO RTL Design
 - FSM Design
 - SystemVerilog Practice Programs
